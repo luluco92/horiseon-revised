@@ -1,12 +1,9 @@
-# horiseon-revised
+# Horiseon Landing Page (Revised)
 ## Deployment URL
 https://luluco92.github.io/horiseon-revised/
 
-Horiseon landing page. Revised edition.
+## Description
+Homepage for Horiseon Social Solution Services, Inc.
 
-Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-Repository contains multiple descriptive commit messages.
-
-Repository contains a quality README file with description, screenshot, and link to deployed application.
+![Site](assets/images/digital-marketing-meeting.jpg "Site")
 
