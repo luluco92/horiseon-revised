@@ -5,5 +5,5 @@ https://luluco92.github.io/horiseon-revised/
 ## Description
 Homepage for Horiseon Social Solution Services, Inc.
 
-![Site](assets/images/digital-marketing-meeting.jpg "Site")
+![Site](assets/images/demo.png "Site")
 
